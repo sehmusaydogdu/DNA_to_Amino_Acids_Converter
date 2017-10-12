@@ -1,0 +1,18 @@
+C:\Users\acer\Desktop\Biyoenformatik-2\DNA_to_aa_Converter\bin\Debug\DNA_to_aa_Converter.exe.config
+C:\Users\acer\Desktop\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.Form1.resources
+C:\Users\acer\Desktop\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.Properties.Resources.resources
+C:\Users\acer\Desktop\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Biyoenformatik-2\DNA_to_aa_Converter\bin\Debug\DNA_to_aa_Converter.exe
+C:\Users\acer\Desktop\Biyoenformatik-2\DNA_to_aa_Converter\bin\Debug\DNA_to_aa_Converter.pdb
+C:\Users\acer\Desktop\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.exe
+C:\Users\acer\Desktop\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.pdb
+E:\Lesson Notes\Odevler\Biyoenformatik-2\DNA_to_aa_Converter\bin\Debug\DNA_to_aa_Converter.exe.config
+E:\Lesson Notes\Odevler\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.exe
+E:\Lesson Notes\Odevler\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.pdb
+E:\Lesson Notes\Odevler\Biyoenformatik-2\DNA_to_aa_Converter\bin\Debug\DNA_to_aa_Converter.exe
+E:\Lesson Notes\Odevler\Biyoenformatik-2\DNA_to_aa_Converter\bin\Debug\DNA_to_aa_Converter.pdb
+E:\Lesson Notes\Odevler\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.csprojResolveAssemblyReference.cache
+E:\Lesson Notes\Odevler\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.Form1.resources
+E:\Lesson Notes\Odevler\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.Properties.Resources.resources
+E:\Lesson Notes\Odevler\Biyoenformatik-2\DNA_to_aa_Converter\obj\Debug\DNA_to_aa_Converter.csproj.GenerateResource.Cache
